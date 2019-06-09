@@ -1,0 +1,2 @@
+# git1
+首先在git上创建仓库，然后在GitHub上面创建一个同名的，而且在GitHub上也要事先加上readme等文件
